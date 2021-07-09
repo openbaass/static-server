@@ -1,0 +1,1 @@
+module "static-web-server"
